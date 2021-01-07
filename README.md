@@ -1,2 +1,2 @@
 # docod
-versionated docs with code refrencing
+versionated docs with code referencing
